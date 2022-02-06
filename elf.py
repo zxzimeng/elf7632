@@ -7,7 +7,7 @@ import ast
 import re
 
 load_dotenv()
-TOKEN = 'OTE1NzU1MDE5NDczNjY2MDQ4.YagNUg.qxaVtKg2Px3vd7obq2Fw147wqyE'
+TOKEN = 'OTE1NzU1MDE5NDczNjY2MDQ4.YagNUg.az1qpB2nQWnNTQwO0S9q8N6BTiY'
 GUILD = 'Secret Santa'
 
 client = discord.Client()
